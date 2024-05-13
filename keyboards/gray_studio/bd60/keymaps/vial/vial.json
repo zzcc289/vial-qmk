@@ -2,8 +2,7 @@
     "name": "bd60",
     "vendorId": "0x4753",
     "productId": "0x4060",
-  "keycodes": ["qmk_lighting"],
-  "menus": ["qmk_rgblight"],
+    "lighting": "qmk_rgblight",
     "matrix": {
         "rows": 5,
         "cols": 15
